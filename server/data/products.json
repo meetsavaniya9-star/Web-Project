@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "4437b62089f4bce683c3cf1a",
+    "name": "Asus A15 Tuf gaming",
+    "category": "Electronics",
+    "price": 80,
+    "stock": 20,
+    "sku": "TECH-MS-696",
+    "status": "In Stock",
+    "description": "",
+    "createdAt": "2026-10-08T10:25:33.937Z",
+    "updatedAt": "2026-10-08T10:25:33.937Z"
+  },
+  {
+    "_id": "67a7f1011111111111110001",
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "price": 149.99,
+    "stock": 35,
+    "sku": "TECH-WH-101",
+    "status": "In Stock",
+    "description": "Premium over-ear wireless headphones with active noise cancellation, 30-hour battery life, and high-fidelity sound.",
+    "createdAt": "2026-02-01T10:00:00.000Z",
+    "updatedAt": "2026-02-01T10:00:00.000Z"
+  },
+  {
+    "_id": "67a7f1011111111111110002",
+    "name": "Mechanical Gaming Keyboard RGB",
+    "category": "Electronics",
+    "price": 89.5,
+    "stock": 18,
+    "sku": "TECH-KB-202",
+    "status": "In Stock",
+    "description": "Tenkeyless mechanical keyboard featuring tactile brown switches, per-key RGB backlighting, and braided USB-C cable.",
+    "createdAt": "2026-02-02T11:30:00.000Z",
+    "updatedAt": "2026-02-02T11:30:00.000Z"
+  },
+  {
+    "_id": "67a7f1011111111111110003",
+    "name": "Ergonomic Mesh Office Chair",
+    "category": "Furniture",
+    "price": 229,
+    "stock": 4,
+    "sku": "FURN-CH-303",
+    "status": "Low Stock",
+    "description": "Breathable high-back mesh chair with adjustable lumbar support, 3D armrests, and pneumatic seat height adjustment.",
+    "createdAt": "2026-02-03T09:15:00.000Z",
+    "updatedAt": "2026-02-03T09:15:00.000Z"
+  },
+  {
+    "_id": "67a7f1011111111111110004",
+    "name": "Stainless Steel Smart Water Bottle",
+    "category": "Fitness",
+    "price": 34.99,
+    "stock": 0,
+    "sku": "FIT-WB-404",
+    "status": "Out of Stock",
+    "description": "Vacuum-insulated double-wall bottle with LED touch temperature display and hydration reminder alarms.",
+    "createdAt": "2026-02-04T14:45:00.000Z",
+    "updatedAt": "2026-02-04T14:45:00.000Z"
+  },
+  {
+    "_id": "67a7f1011111111111110005",
+    "name": "Ultra-Wide 4K IPS Monitor 34-Inch",
+    "category": "Electronics",
+    "price": 499.99,
+    "stock": 12,
+    "sku": "TECH-MN-505",
+    "status": "In Stock",
+    "description": "Curved 21:9 ultra-wide productivity monitor with HDR400, 99% sRGB color gamut, USB-C 90W power delivery, and dual speakers.",
+    "createdAt": "2026-02-05T16:20:00.000Z",
+    "updatedAt": "2026-02-05T16:20:00.000Z"
+  },
+  {
+    "_id": "67a7f1011111111111110006",
+    "name": "Leather Executive Laptop Messenger Bag",
+    "category": "Accessories",
+    "price": 75,
+    "stock": 6,
+    "sku": "ACC-BG-606",
+    "status": "Low Stock",
+    "description": "Handcrafted vintage full-grain leather bag with padded sleeve for up to 15.6 inch laptops and water-resistant lining.",
+    "createdAt": "2026-02-06T12:10:00.000Z",
+    "updatedAt": "2026-02-06T12:10:00.000Z"
+  }
+]

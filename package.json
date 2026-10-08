@@ -1,0 +1,15 @@
+{
+  "name": "fullstack-crud-mvc-app",
+  "version": "1.0.0",
+  "description": "Full-Stack MVC Web Application for Single Database Entity CRUD operations using React.js, Node.js, Express.js, and MongoDB/MySQL",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node --watch server/server.js",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "install:all": "npm install --prefix server && npm install --prefix client"
+  },
+  "keywords": ["mvc", "crud", "react", "nodejs", "express", "mongodb", "mysql"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
